@@ -23,6 +23,7 @@ namespace MMTShop.API.Controllers
         {
             try
             {
+                //Make a call to the database to retrieve all products with IsFeature flag set to true
                 var featuredProducts = await _productService.GetFeaturedProductsAsync();
                 return Ok(featuredProducts);
             }
@@ -38,6 +39,7 @@ namespace MMTShop.API.Controllers
         {
             try
             {
+                //Make a call to the database to retrieve all categories
                 var categories = await _categoryService.GetAllCategoriesAsync();
                 return Ok(categories);
             }
@@ -53,6 +55,7 @@ namespace MMTShop.API.Controllers
         {
             try
             {
+                //Make a call to database to retrieve all products with the category id passed in
                 var productsInCategory = await _productService.GetProductsByCategoryIdAsync(categoryId);
                 return Ok(productsInCategory);
             }

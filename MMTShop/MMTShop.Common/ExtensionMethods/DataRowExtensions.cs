@@ -3,6 +3,9 @@ using System.Data;
 
 namespace MMTShop.Common.ExtensionMethods
 {
+    /// <summary>
+    /// Extension methods that help retrieve data from the database and reduce null exceptions
+    /// </summary>
     public static class DataRowExtensions
     {
         public static string GetSafeString(this DataRow row, string columnName)
