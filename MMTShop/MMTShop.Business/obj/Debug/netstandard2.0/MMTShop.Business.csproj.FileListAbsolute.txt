@@ -12,3 +12,17 @@ C:\Users\Dominic\source\repos\MMTShop\MMTShop.Business\bin\Debug\netstandard2.0\
 C:\Users\Dominic\source\repos\MMTShop\MMTShop.Business\obj\Debug\netstandard2.0\MMTShop.Business.csproj.CopyComplete
 C:\Users\Dominic\source\repos\MMTShop\MMTShop.Business\obj\Debug\netstandard2.0\MMTShop.Business.dll
 C:\Users\Dominic\source\repos\MMTShop\MMTShop.Business\obj\Debug\netstandard2.0\MMTShop.Business.pdb
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\bin\Debug\netstandard2.0\MMTShop.Business.deps.json
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\bin\Debug\netstandard2.0\MMTShop.Business.dll
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\bin\Debug\netstandard2.0\MMTShop.Business.pdb
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\bin\Debug\netstandard2.0\MMTShop.Common.dll
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\bin\Debug\netstandard2.0\MMTShop.Models.dll
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\bin\Debug\netstandard2.0\MMTShop.Common.pdb
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\bin\Debug\netstandard2.0\MMTShop.Models.pdb
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\obj\Debug\netstandard2.0\MMTShop.Business.csprojAssemblyReference.cache
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\obj\Debug\netstandard2.0\MMTShop.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\obj\Debug\netstandard2.0\MMTShop.Business.AssemblyInfoInputs.cache
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\obj\Debug\netstandard2.0\MMTShop.Business.AssemblyInfo.cs
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\obj\Debug\netstandard2.0\MMTShop.Business.csproj.CopyComplete
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\obj\Debug\netstandard2.0\MMTShop.Business.dll
+C:\Users\Dominic\source\repos\MMTShop-Git\MMTShop\MMTShop.Business\obj\Debug\netstandard2.0\MMTShop.Business.pdb

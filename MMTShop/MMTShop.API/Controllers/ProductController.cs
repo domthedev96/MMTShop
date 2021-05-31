@@ -49,7 +49,7 @@ namespace MMTShop.API.Controllers
         }
 
         [Route("category/{categoryId}")]
-        public async Task<IActionResult> GetProductsByCategory(int categoryId)
+        public async Task<IActionResult> GetProductsByCategoryAsync(int categoryId)
         {
             try
             {

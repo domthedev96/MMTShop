@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMTShop.Models", "MMTShop.M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMTShop.Common", "MMTShop.Common\MMTShop.Common.csproj", "{F6B42141-3DF7-4AD3-B887-A41BEDD1FBD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMTShop.ConsoleApp", "MMTShop.ConsoleApp\MMTShop.ConsoleApp.csproj", "{270B5726-D562-45C6-8529-DD4EB75F63C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMTShop.ConsoleApp", "MMTShop.ConsoleApp\MMTShop.ConsoleApp.csproj", "{270B5726-D562-45C6-8529-DD4EB75F63C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMTShop.Tests", "MMTShop.Tests\MMTShop.Tests.csproj", "{B9A5548F-85EE-48DC-979C-93879F551D2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{270B5726-D562-45C6-8529-DD4EB75F63C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{270B5726-D562-45C6-8529-DD4EB75F63C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{270B5726-D562-45C6-8529-DD4EB75F63C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A5548F-85EE-48DC-979C-93879F551D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A5548F-85EE-48DC-979C-93879F551D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A5548F-85EE-48DC-979C-93879F551D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A5548F-85EE-48DC-979C-93879F551D2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
