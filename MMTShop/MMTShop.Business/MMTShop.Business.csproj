@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="2.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MMTShop.Common\MMTShop.Common.csproj" />
+    <ProjectReference Include="..\MMTShop.Models\MMTShop.Models.csproj" />
+  </ItemGroup>
+
+</Project>

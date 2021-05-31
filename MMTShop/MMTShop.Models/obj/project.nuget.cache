@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5D/EU88RwSM+EZO7vH80BE5rEc2nZAKgR+EzG9Sf1sffUXsiFg65OQpe79V1XF2HfuixvRtNOSSZ/fAyCxWqag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dominic\\source\\repos\\MMTShop-Git\\MMTShop\\MMTShop.Models\\MMTShop.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

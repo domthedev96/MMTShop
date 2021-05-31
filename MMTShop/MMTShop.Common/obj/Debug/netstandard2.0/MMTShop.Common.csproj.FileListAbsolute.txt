@@ -1,0 +1,9 @@
+C:\Users\Dominic\source\repos\MMTShop\MMTShop.Common\bin\Debug\netstandard2.0\MMTShop.Common.deps.json
+C:\Users\Dominic\source\repos\MMTShop\MMTShop.Common\bin\Debug\netstandard2.0\MMTShop.Common.dll
+C:\Users\Dominic\source\repos\MMTShop\MMTShop.Common\bin\Debug\netstandard2.0\MMTShop.Common.pdb
+C:\Users\Dominic\source\repos\MMTShop\MMTShop.Common\obj\Debug\netstandard2.0\MMTShop.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\source\repos\MMTShop\MMTShop.Common\obj\Debug\netstandard2.0\MMTShop.Common.AssemblyInfoInputs.cache
+C:\Users\Dominic\source\repos\MMTShop\MMTShop.Common\obj\Debug\netstandard2.0\MMTShop.Common.AssemblyInfo.cs
+C:\Users\Dominic\source\repos\MMTShop\MMTShop.Common\obj\Debug\netstandard2.0\MMTShop.Common.dll
+C:\Users\Dominic\source\repos\MMTShop\MMTShop.Common\obj\Debug\netstandard2.0\MMTShop.Common.pdb
+C:\Users\Dominic\source\repos\MMTShop\MMTShop.Common\obj\Debug\netstandard2.0\MMTShop.Common.csprojAssemblyReference.cache
